@@ -1,0 +1,35 @@
+body {
+	background-color: #00ff00;
+}
+h1 {
+	font-family: Arial, sans-serif;
+	text-align: center;
+	font-size: 50px;
+	font-weight: bold;
+	text-decoration: underline;
+	color: rgb(255,0,0);
+	}
+h3 {
+		text-align: center;
+		color:#912828;
+		font-family: "Courier New",monospace;
+		font-size: 25px;
+}
+#img{
+	align: center;
+}
+#Slogan {
+	font-style: italic;
+	text-align: center;
+}
+ul{
+	font-style: Arial, sans-serif;
+	font-weight: bold;
+	color: #0000ff;
+}
+p{
+	font-family: Arial, sans-serif;
+	color: rgb(255,0,0);
+}
+
+
