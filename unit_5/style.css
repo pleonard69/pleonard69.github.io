@@ -1,16 +1,12 @@
 body {
 	background-color: #00ff00;
 }
-h1 {
-	font-family: 'Quicksand', sans-serif;
+header {
+	background: url("http://i.imgur.com/ZIqAjXX.jpg" alt="Our Logo");
 	text-align: center;
-	font-size: 50px;
-	font-weight: bold;
-	text-decoration: underline;
-	color: rgb(255,0,0);
-	}
-div {
-	text-align: center;
+}
+ div #yellowbox {
+	opacity: 2.0;
 }
 h3 {
 		text-align: center;
@@ -23,6 +19,13 @@ h3 {
 	font-style: italic;
 	text-align: center;
 	letter-spacing: 3px;
+}
+nav {
+text-align: center;
+font-family:'Orbitron', sans-serif; 
+font-weight: 70px;
+border: solid;
+b
 }
 ul{
 	font-family: 'Quicksand', sans-serif;
@@ -38,6 +41,13 @@ p{
 	color: black;
 	margin: 25px 25px;
 	display: block;
+}
+div {
+	text-align: center;
+}
+footer {
+	font-family: 'Orbitron', sans-serif; 
+	text-align: center;
 }
 
 
