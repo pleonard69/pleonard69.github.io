@@ -1,12 +1,9 @@
-body {
+	body {
 	background-color: #00ff00;
 }
 header {
-	background: url("http://i.imgur.com/ZIqAjXX.jpg" alt="Our Logo");
+	background: url("http://i.imgur.com/ZIqAjXX.jpg" title="Our Logo");
 	text-align: center;
-}
- div #yellowbox {
-	opacity: 2.0;
 }
 h3 {
 		text-align: center;
