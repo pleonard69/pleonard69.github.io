@@ -1,28 +1,32 @@
 	body {
 	background-color: #00ff00;
 }
-header {
-	background: url("http://i.imgur.com/ZIqAjXX.jpg" title="Our Logo");
-	text-align: center;
-}
+
 h3 {
 		text-align: center;
 		color:#912828;
 		font-family: "Courier New",monospace;
 		font-size: 25px;
 }
+header{
+}
 #slogan {
+	color: black;
 	font-family: 'Orbitron', sans-serif;
 	font-style: italic;
 	text-align: center;
 	letter-spacing: 3px;
 }
 nav {
-text-align: center;
-font-family:'Orbitron', sans-serif; 
-font-weight: 70px;
-border: solid;
-b
+	background-color: #ff0000;
+	padding: 10px;
+	font-weight: 50px;
+	text-align: center;
+	font-family:'Orbitron', sans-serif; 
+	font-weight: 70px;
+}
+a:hover {
+	background-color: #aaaaaa;
 }
 ul{
 	font-family: 'Quicksand', sans-serif;
@@ -45,6 +49,5 @@ div {
 footer {
 	font-family: 'Orbitron', sans-serif; 
 	text-align: center;
+	padding: 2em 0
 }
-
-
