@@ -49,10 +49,17 @@ nav {
 	font-weight: 50px;
 	text-align: center;
 	font-family:'Orbitron', sans-serif; 
-	font-weight: 70px;
+	font-weight: 900;
 }
 a:hover {
 	background-color: #aaaaaa;
+}
+#mslogo{
+	float: left;
+	padding-top: 90px;
+}
+#servicetext{
+	text-align: left;
 }
 ul{
 	font-family: 'Quicksand', sans-serif;
