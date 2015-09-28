@@ -1,4 +1,5 @@
-	body {
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
 	background-color: #00ff00;
 }
 
@@ -9,13 +10,38 @@ h3 {
 		font-size: 25px;
 }
 header{
+	background: url("http://i.imgur.com/Qr5qCnq.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-align: center;
+	padding: 2em;
 }
-#slogan {
-	color: black;
+#companyname{
+	color: white;
 	font-family: 'Orbitron', sans-serif;
 	font-style: italic;
-	text-align: center;
 	letter-spacing: 3px;
+}
+#home{
+	text-align: center;
+	font-family:'Orbitron', sans-serif; 
+	font-weight: 70px;	
+}
+#slogan {
+	color: white;
+	font-family: 'Orbitron', sans-serif;
+	font-style: italic;
+	letter-spacing: 3px;
+}
+#services {
+	text-align: center;
+	font-family:'Orbitron', sans-serif; 
+	font-weight: 70px;
+}
+#contactus {
+	text-align: center;
+	font-family:'Orbitron', sans-serif; 
+	font-weight: 70px;	
 }
 nav {
 	background-color: #ff0000;
@@ -33,6 +59,7 @@ ul{
 	font-weight: bold;
 	color: #0000ff;
 	line-height: 150%;
+	padding-left: 30px;
 }
 p{
 	font-family: Arial, sans-serif;
