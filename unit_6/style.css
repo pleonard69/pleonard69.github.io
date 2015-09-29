@@ -56,10 +56,9 @@ a:hover {
 }
 #mslogo{
 	float: left;
-	padding-top: 90px;
 }
-#servicetext{
-	text-align: left;
+#apple {
+	float: right;
 }
 ul{
 	font-family: 'Quicksand', sans-serif;
