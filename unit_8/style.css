@@ -1,0 +1,92 @@
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+	background-color: #00ff00;
+}
+
+h3 {
+		text-align: center;
+		color:#912828;
+		font-family: "Courier New",monospace;
+		font-size: 25px;
+}
+header{
+	background: url("http://i.imgur.com/Qr5qCnq.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-align: center;
+	padding: 2em;
+}
+#companyname{
+	color: white;
+	font-family: 'Orbitron', sans-serif;
+	font-style: italic;
+	letter-spacing: 3px;
+}
+#home{
+	text-align: center;
+	font-family:'Orbitron', sans-serif; 
+	font-weight: 70px;	
+}
+#slogan {
+	color: white;
+	font-family: 'Orbitron', sans-serif;
+	font-style: italic;
+	letter-spacing: 3px;
+}
+#services {
+	text-align: center;
+	font-family:'Orbitron', sans-serif; 
+	font-weight: 70px;
+}
+#contactus {
+	text-align: center;
+	font-family:'Orbitron', sans-serif; 
+	font-weight: 70px;	
+}
+nav {
+	background-color: #ff0000;
+	padding: 10px;
+	font-weight: 50px;
+	text-align: center;
+	font-family:'Orbitron', sans-serif; 
+	font-weight: 900;
+}
+a:hover {
+	background-color: #aaaaaa;
+}
+#mslogo {
+	float: left;
+}
+#apple {
+	float: right;
+}
+ul{
+	font-family: 'Quicksand', sans-serif;
+	font-weight: bold;
+	color: #0000ff;
+	line-height: 150%;
+	padding-left: 30px;
+}
+p{
+	font-family: Arial, sans-serif;
+	color: rgb(255,0,0);
+	letter-spacing: 1px;
+	font-weight: bold;
+	color: black;
+	margin: 25px 25px;
+	display: block;
+}
+div {
+	text-align: center;
+}
+footer {
+	font-family: 'Orbitron', sans-serif; 
+	text-align: center;
+	padding: 2em 0
+}
+@media only screen and (max-width: 320px){
+	#services {
+	float: none;
+	width: auto;
+}
+}
